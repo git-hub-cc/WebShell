@@ -43,13 +43,13 @@ This project demonstrates how to handle common interactions between the web cont
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/git-hub-cc/WebShell
     ```
 2.  **Change the Target URL**:
     -   Open `app/src/main/java/club/ppmc/webshell/MainActivity.kt`.
     -   Modify the `targetUrl` variable to point to your own web application:
         ```kotlin
-        private val targetUrl = "https://your-website.com"
+        private val targetUrl = "https://ppmc.club/ppmc.html"
         ```
 3.  **Build and Run**:
     -   Open the project in Android Studio.

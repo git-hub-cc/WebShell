@@ -43,13 +43,13 @@
 
 1.  **克隆仓库**:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/git-hub-cc/WebShell
     ```
 2.  **修改目标 URL**:
     -   打开 `app/src/main/java/club/ppmc/webshell/MainActivity.kt`。
     -   修改 `targetUrl` 变量为你自己的网页地址：
         ```kotlin
-        private val targetUrl = "https://your-website.com"
+        private val targetUrl = "https://ppmc.club/ppmc.html"
         ```
 3.  **构建和运行**:
     -   使用 Android Studio 打开项目。
